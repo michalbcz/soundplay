@@ -14,9 +14,9 @@ import (
 	"github.com/gopxl/beep/v2"
 	"github.com/gopxl/beep/v2/flac"
 	"github.com/gopxl/beep/v2/mp3"
+	"github.com/gopxl/beep/v2/speaker"
 	"github.com/gopxl/beep/v2/vorbis"
 	"github.com/gopxl/beep/v2/wav"
-	"github.com/gopxl/beep/v2/speaker"
 )
 
 const version = "1.0.0"
