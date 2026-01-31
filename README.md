@@ -93,7 +93,7 @@ soundplay https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3
 | URL support | ✅ | ✅ | ✅ | ❌ |
 | No GUI | ✅ | ❌ | ✅ | ✅ |
 | Cross-platform | ✅ | ✅ | ✅ | ❌ |
-| Binary size | ~10MB | ~70MB | ~2MB | <1MB |
+| Binary size | ~6MB | ~70MB | ~2MB | <1MB |
 
 ## Build Requirements
 
